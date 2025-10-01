@@ -1,0 +1,37 @@
+Matriz U triang. sup. do metodo de eliminacao de Gauss: 
+   1   1
+   0  -4
+Matriz coluna de constantes modificadas: 
+   3
+  -6
+Matriz L:
+   1   0
+   1   1
+Solucao x encontrada: 
+   1.5000
+   1.5000
+-----------------------------4
+Matriz U triang. sup. do metodo de eliminacao de Gauss: 
+   7.0000   4.0000   3.0000   5.0000   8.0000
+        0   4.0000   8.0000   5.0000   2.0000
+        0        0  -4.7143  -7.2500  -3.6429
+        0        0        0   9.5909   2.4545
+        0        0        0        0  -4.9810
+Matriz coluna de constantes modificadas: 
+   84.000
+   62.000
+  -61.357
+   50.636
+  -24.905
+Matriz L:
+   1.0000        0        0        0        0
+        0   1.0000        0        0        0
+   0.8571   1.3929   1.0000        0        0
+        0   2.2500   1.9091   1.0000        0
+   1.2857   0.9643   0.7576  -0.6003   1.0000
+Solucao x encontrada: 
+   1.0000
+   2.0000
+   3.0000
+   4.0000
+   5.0000
