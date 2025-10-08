@@ -1,0 +1,25 @@
+% Exemplo1
+Coeficientes do polinomio de Lagrange:
+c1: 3.00
+c2: -3.00
+c3: 1.00
+
+Polinomio de Lagrange:
+P2(x) = 3(x - 2)(x - 3) - 3(x - 1)(x - 3) + 1(x - 1)(x - 2) 
+
+
+% Exemplo2 - Dados1
+Coeficientes do polinomio de Lagrange:
+c1: -2.00
+c2: 3.00
+c3: -2.00
+c4: 0.50
+
+
+% Exemplo2 - Dados2
+Coeficientes do polinomio de Lagrange:
+c1: 0.18
+c2: -0.30
+c3: 0.22
+c4: -0.06
+c5: 0.00
