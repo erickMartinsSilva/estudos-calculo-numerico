@@ -1,0 +1,31 @@
+Resultado para f(x) = x*log10(x)-1, x0=2, prec=10^-10 
+A solucao encontrada pelo metodo de Newton foi:
+ 2.506184145588769
+O valor de f(x) calculado na solucao foi:
+ 0
+Total de Iteracoes:
+ 4
+
+Resultado para f(x) = x^2 - .5, x0=2, prec=10^-10  
+A solucao encontrada pelo metodo de Newton foi:
+ 0.707106781186548
+O valor de f(x) calculado na solucao foi:
+ 1.110223024625157e-16
+Total de Iteracoes:
+ 6
+
+Resultado para f(x) = x^3 - 9*x + 3, x0=2, prec=10^-10 
+A solucao encontrada pelo metodo de Newton foi:
+ 2.816914052729369
+O valor de f(x) calculado na solucao foi:
+ 0
+Total de Iteracoes:
+ 7
+
+Resultado para f(x) = x^3 - 9*x + 3, x0=1.4, prec=10^-10 
+A solucao encontrada pelo metodo de Newton foi:
+ 0.337608955965838
+O valor de f(x) calculado na solucao foi:
+ -4.440892098500626e-16
+Total de Iteracoes:
+ 6
